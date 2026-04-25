@@ -57,3 +57,4 @@ A robust, full-stack Java web application engineered to seamlessly handle studen
 3.  **Access the Application**:
     *   Open your browser and navigate to: `http://localhost:8080/login.jsp`
     *   **Default Admin Login**: `admin` / `admin123`
+     *   **Default Stdent Login**: `student` / `student123`
